@@ -6,3 +6,13 @@ In the dynamic landscape of digital currencies, this project, CryptoInsight, sta
 
 ## Objective:
 The primary objective of CryptoInsight is to provide a holistic understanding of the cryptocurrency market by employing advanced data analysis techniques. By leveraging historical and real-time data, my project aims to identify market trends, price movements, merging patterns, and forecast the cryptocurrencies enabling stakeholders to make informed decisions.
+
+ 
+## Tools:
+Python(pandas,numpy)
+
+## 🔗 Links
+
+LinkedIn:
+
+linkedin.com/in/kajal-adiwal
