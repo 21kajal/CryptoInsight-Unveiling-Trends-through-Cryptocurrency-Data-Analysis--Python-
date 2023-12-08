@@ -9,7 +9,7 @@ The primary objective of CryptoInsight is to provide a holistic understanding of
 
  
 ## Tools:
-Python(pandas,numpy)
+Python(pandas,numpy, matplotlib, seaborn)
 
 ## 🔗 Links
 
